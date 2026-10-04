@@ -1,0 +1,17 @@
+# --- Credenciales (NUNCA subir) ---
+config.py
+
+# --- Modelo personal (cada uno entrena el suyo) ---
+*.h5
+labels.txt
+
+# --- Entorno de Python ---
+venv/
+__pycache__/
+*.pyc
+
+# --- Datos que genera el sistema ---
+evidencia/
+historial.csv
+conocidos.json
+diario.json
